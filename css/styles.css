@@ -1,0 +1,55 @@
+.header-col{
+    background-color: rgb(161, 165, 170);
+}
+
+.logo-ino{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+
+.services{
+    border: 1px solid rgb(24, 24, 131);
+    box-sizing: border-box;
+    margin: 20px 0px;
+    transition: all ease 0.3s;
+}
+
+.services:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.pad{
+    display: flex;
+    padding: 15px;
+    vertical-align: middle;
+    
+}
+
+.serv-txt h4{
+    color:rgb(24, 24, 131);
+   
+   
+}
+
+.ico{
+    flex: 1;
+    font-size: 70px;
+    padding:5px;
+    color:rgb(24, 24, 131);
+}
+
+.serv-txt{
+    width: 90%;
+    
+    text-align: justify;
+    margin-left: 10px;
+
+}
