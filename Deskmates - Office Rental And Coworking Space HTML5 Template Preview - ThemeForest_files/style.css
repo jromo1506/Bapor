@@ -347,7 +347,7 @@ span{
     background: #392690 ;
 }
 .active{
-    color: #392690 !important;
+    /* color: #392690 !important; */
     background-color: transparent !important;
 }
 .active-color{
@@ -433,11 +433,11 @@ aside li{
     font-size: 18px; 
 }
 .navbar ul li a{
-    color: #1B1117;
+    color: #eeeeee;
     padding: 12px;
 }
 .navbar ul li a:hover{
-    color: #392690 ;
+    color: #bfc0ff ;
 }
 .dropdown ul{
    width: 200px;  
